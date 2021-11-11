@@ -17,7 +17,7 @@ module.exports = {
                 'complementary-alt': themeStyle.complementaryAlt
             },
             fontFamily: {
-                body: themeStyle.font, sans",
+                body: themeStyle.fontBody, sans",
                 headlines: themeStyle.fontHeadlines
             }
         }
