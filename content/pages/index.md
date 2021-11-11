@@ -45,6 +45,7 @@ sections:
         borderColor: border-primary
         borderRadius: none
         borderStyle: solid
+        borderWidth: 5
       title:
         fontWeight: '700'
         fontStyle: normal
