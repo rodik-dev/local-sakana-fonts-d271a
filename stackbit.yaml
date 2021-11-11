@@ -46,7 +46,7 @@ models:
             value: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
           - label: Serif
             value: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif
-          - label: Serif
+          - label: Poppins
             value: 
               name: Poppins
               url: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap
