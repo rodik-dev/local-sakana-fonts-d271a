@@ -26,8 +26,8 @@ contentModels:
 models:
   CustomTheme:
     type: data
-    name: ThemeStyle
-    label: Theme Style
+    name: CustomTheme
+    label: CustomTheme
     file: style.json
     fieldGroups:
       - name: text-styles
