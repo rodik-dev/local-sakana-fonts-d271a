@@ -11,7 +11,7 @@ dataDir: content/data
 pagesDir: content/pages
 pageLayoutKey: layout
 objectTypeKey: type
-styleObjectModelName: ThemeStyle
+styleObjectModelName: CustomTheme
 contentModels:
   PageLayout:
     isPage: true
