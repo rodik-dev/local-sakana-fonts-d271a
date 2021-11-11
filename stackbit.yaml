@@ -47,7 +47,7 @@ models:
           - label: Serif
             value: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif
           - label: Poppins
-            value: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap
+            value: Poppins
       - type: object
         name: h1
         label: H1
