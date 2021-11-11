@@ -1,5 +1,5 @@
 {
-    "type": "ThemeStyle",
+    "type": "Custom",
     "h1": {
         "weight": "bold",
         "decoration": "none",
