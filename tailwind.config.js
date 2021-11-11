@@ -1,8 +1,6 @@
 const plugin = require('tailwindcss/plugin');
 const themeStyle = require('./content/data/style_copy.json');
 
-
-
 module.exports = {
     presets: [require('@stackbit/components/styles/tailwind.default.config.js')],
     theme: {
@@ -17,7 +15,7 @@ module.exports = {
                 'complementary-alt': themeStyle.complementaryAlt
             },
             fontFamily: {
-                body: themeStyle, sans",
+                body: themeStyle.fontBody,
                 headlines: themeStyle.fontHeadlines
             }
         }
