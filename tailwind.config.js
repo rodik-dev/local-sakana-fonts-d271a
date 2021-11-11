@@ -1,6 +1,8 @@
 const plugin = require('tailwindcss/plugin');
 const themeStyle = require('./content/data/style_copy.json');
 
+themeStyle.
+
 module.exports = {
     presets: [require('@stackbit/components/styles/tailwind.default.config.js')],
     theme: {
