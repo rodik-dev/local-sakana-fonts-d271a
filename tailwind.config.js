@@ -15,7 +15,7 @@ module.exports = {
                 'complementary-alt': themeStyle.complementaryAlt
             },
             fontFamily: {
-                body: typeof themeStyle.fontBody === 'object' ? themeStyle.fontBody.name : themeStyle.fontBody,
+                body: themeStyle.fontBody,
                 headlines: themeStyle.fontHeadlines
             }
         }
