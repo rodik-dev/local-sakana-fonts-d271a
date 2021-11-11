@@ -28,7 +28,7 @@ models:
     type: data
     name: CustomTheme
     label: CustomTheme
-    file: style.json
+    file: style_copy.json
     fieldGroups:
       - name: text-styles
         label: Text styles
