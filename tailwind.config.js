@@ -15,7 +15,7 @@ module.exports = {
                 'complementary-alt': themeStyle.complementaryAlt
             },
             fontFamily: {
-                body: 'Poppind', sans,
+                body: "'Poppins', sans",
                 headlines: themeStyle.fontHeadlines
             }
         }
