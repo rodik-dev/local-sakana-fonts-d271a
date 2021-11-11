@@ -19,7 +19,7 @@
         "letterSpacing": "normal"
     },
     "fontBody": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
-    "fontHeadlines": "[object Object]",
+    "fontHeadlines": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap",
     "body": "#414c58",
     "headlines": "#303941",
     "primary": "#ff3064",
