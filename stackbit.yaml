@@ -25,7 +25,7 @@ contentModels:
     newFilePath: 'team/{slug}.json'
 models:
   CustomTheme:
-  type: data
+type: data
 name: ThemeStyle
 label: Theme Style
 file: style.json
